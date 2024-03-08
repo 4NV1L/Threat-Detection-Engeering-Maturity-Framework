@@ -48,7 +48,9 @@ The repository content is spread sheet of the maturity matrix so that its easily
 - **Maturity Level Description**
   - The subject that is classified within its various categories. The description aligns with the maturity level, and is generalized for flexibility of interpretations. There may be some overlap in different categories of the framework. 
 
-
+#### Maturity Level Tagging 
+The maturity level tagging allows for easy filtering and drill downs for specific subjects and areas. The tagging is the following 
+`threatDetectionCategory.maturityLevel.maturityDescription` ie. `PO.1.2 ... PO.2.3 ... PO.3.3`
 
 
 
