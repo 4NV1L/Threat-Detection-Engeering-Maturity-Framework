@@ -37,3 +37,19 @@ The repository content is spread sheet of the maturity matrix so that its easily
 
 #### Field Digest 
 
+- **Threat Detection Enginering Category**
+  - The high-level overarching engineering category such as Process, Personnel, Data, Tools, & Technology, Coverage, and Capabilities. 
+- **Subcategory**
+  - A more discriptive, specific category that the subject is related to.
+- **Dependency**
+  - The dependent area or subject matter that is related to the overall maturity description. This can help identify maturity for various subject areas to filter on.
+- **Maturity Tag**
+  - A compressed tagging of the Engineering Category, Maturity Level, and Subject Number
+- **Maturity Level Description**
+  - The subject that is classified within its various categories. The description aligns with the maturity level, and is generalized for flexibility of interpretations. There may be some overlap in different categories of the framework. 
+
+
+
+
+
+
